@@ -1,0 +1,23 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE & Editor Directories
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node / Dependencies (if added later)
+node_modules/
+package-lock.json
+
+# Build outputs & caches
+dist/
+build/
+.cache/
+*.log
+
+# Environment files
+.env
+.env.local
